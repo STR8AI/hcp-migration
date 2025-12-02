@@ -1,0 +1,7 @@
+name = "hcp-migration"
+main = "src/index.js"
+compatibility_date = "2024-05-28"
+
+[vars]
+HCP_ACCESS_TOKEN = ""
+GHL_API_KEY = ""
