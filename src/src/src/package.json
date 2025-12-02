@@ -1,0 +1,10 @@
+{
+  "name": "hcp-migration",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker for Housecall Pro → HighLevel migration",
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler publish",
+    "dev": "wrangler dev"
+  }
+}
